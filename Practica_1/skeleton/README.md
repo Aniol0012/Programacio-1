@@ -1,6 +1,6 @@
 Practica 1
 
-Març 2022
+Octubre 2021
 
 Aniol Serrano Ortega
 

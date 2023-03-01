@@ -8,7 +8,7 @@ Autor: **Aniol Serrano Ortega**
 
 Repositori de les pràctiques realitzades a Progrmacio I.
 
-### Instalació:
+### Instal·lació:
 
    ```sh
    git clone https://github.com/Aniol0012/Programacio-1
